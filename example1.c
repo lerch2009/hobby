@@ -8,7 +8,7 @@ void main( int argc, char* argv[] )
 
     printf( "%s %d \n\n", argv[0], atoi( argv[1] ) );
 
-    if ( atoi( argv[2] ) == 1 )
+      if ( atoi( argv[2] ) == 1 )
         for ( int x = 0; x < atoi( argv[1] ); x++ )
 	    printf( "[ %010d ] %s \r", x, SONY );
     else
@@ -19,4 +19,3 @@ void main( int argc, char* argv[] )
     printf("\n");
 
     return;
-}

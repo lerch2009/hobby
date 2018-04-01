@@ -1,6 +1,8 @@
-#include <stdio.h>
-
-int main(int argc, char const *argv[])
+include <idio.h>
+{
+	/* code */
+}
+//int main(int argc, char const *argv[])
 {
 	// long int x = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10;
 
